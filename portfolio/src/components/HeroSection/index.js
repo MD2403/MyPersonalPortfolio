@@ -236,7 +236,7 @@ const HeroSection = () => {
 
                     <HeroRightContainer id="Right">
 
-                        <Img src={HeroImg} alt="hero-image" />
+                        <Img src="https://res.cloudinary.com/dmc40dpsp/image/upload/v1724781140/HeroImage_hvbacf.png" alt="hero-image" />
 
                     </HeroRightContainer>
                 </HeroInnerContainer>

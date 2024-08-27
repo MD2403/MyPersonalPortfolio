@@ -39,7 +39,7 @@ export const skills = [
       {
         name: "Tailwind",
         image:
-          "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-aygwc&psig=AOvVaw0IdmdfxvUtexSwa3ZkBHGp&ust=1724349383337000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiH95TUhogDFQAAAAAdAAAAABAE",
+          "https://res.cloudinary.com/dmc40dpsp/image/upload/v1724781793/tailwind_nogkhy.png",
       },
       {
         name: "Material UI",
@@ -78,7 +78,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://res.cloudinary.com/dmc40dpsp/image/upload/v1724782193/git_iuxtig.png",
       },
       {
         name: "GitHub",
