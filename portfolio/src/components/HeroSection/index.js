@@ -2,7 +2,6 @@ import React from 'react'
 import styled from "styled-components";
 import _default from "../../themes/default";
 import HeroBgAnimation from '../HeroBgAnimation'
-import HeroImg from '../../images/HeroImage.PNG'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
 
