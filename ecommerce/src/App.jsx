@@ -1,11 +1,19 @@
-import React from 'react';
-import HomePage from './components/HomePage';
+import { Toaster } from 'react-hot-toast';
+import './App.css';
+import TopNavBar from './components/TopNavBar';
+import { Outlet } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="App">
-      <HomePage />
-    </div>
+    <>
+      {/* Main navigation bar */}
+      <TopNavBar />
+
+      {/* Display toast notifications at the bottom center */}
+      <Toaster position="bottom-center" />
+    
+      <Outlet />
+    </>
   );
 }
 
